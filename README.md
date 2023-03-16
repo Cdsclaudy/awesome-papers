@@ -17,6 +17,9 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 5th Australian Microwave Symposium (AMS)](#2023-5th-australian-microwave-symposium-ams)
+      - [2023 5th International Conference on Smart Systems and Inventive Technology (ICSSIT)](#2023-5th-international-conference-on-smart-systems-and-inventive-technology-icssit)
+      - [2023 International Conference on Intelligent Supercomputing and BioPharma (ISBP)](#2023-international-conference-on-intelligent-supercomputing-and-biopharma-isbp)
 
 ## **Organizations**
 
