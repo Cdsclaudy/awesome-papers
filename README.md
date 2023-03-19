@@ -2,7 +2,7 @@
 
 The following document consists of the list of research papers from established and licensed organizations.
 
-## Latest Update: 18<sup>th</sup> March 2023
+## Latest Update: 19<sup>th</sup> March 2023
 
 ## NOTE:
 
