@@ -17,6 +17,7 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 27th International Conference on Information Technology (IT)](#2023-27th-international-conference-on-information-technology-it)
       - [2023 IEEE 7th Global Electromagnetic Compatibility Conference (GEMCCON)](#2023-ieee-7th-global-electromagnetic-compatibility-conference-gemccon)
       - [2023 SICE International Symposium on Control Systems (SICE ISCS)](#2023-sice-international-symposium-on-control-systems-sice-iscs)
       - [2023 17th International Conference on the Experience of Designing and Application of CAD Systems (CADSM)](#2023-17th-international-conference-on-the-experience-of-designing-and-application-of-cad-systems-cadsm)
@@ -65,6 +66,52 @@ The following document consists of the list of research papers from established 
 ### **IEEE (Institute of Electrical and Electronics Engineers)**
 
 ### **Conferences**
+
+#### **2023 27th International Conference on Information Technology (IT)**
+- DOI: 10.1109/IT57431.2023
+- DATE: 15-18 February 2023
+
+|Name|Authors|DOI|Tags|
+|-|-|-|-|
+|[A Machine Learning-Based Framework for Detecting Credit Card Anomalies and Fraud](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078528)|M. A. Alamri; M. A. Ykhlef|10.1109/IT57431.2023.10078528|credit card;anomaly detection;fraud detection;sampling techniques;machine learning;optimization;nan|
+|[The use of GeoGebra software to improve teaching in the field of marine electrical engineering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078581)|I. Knežević; M. Krčum; T. Dlabač; A. Gudelj|10.1109/IT57431.2023.10078581|nan;nan|
+|[A Systems-oriented Approach to Medical Education Incorporates Virtual Patients and Gamification](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078624)|M. N. R. Khan; K. Lippert; R. J. Cloutier|10.1109/IT57431.2023.10078624|VP;game-based learning;system engineering;nan|
+|[Improved LOS Guidance Law for Path Following of Underactuated USV with Sideslip Compensation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078645)|L. Ašanin; L. Martinović; Ž. Zečević; M. Bibuli; R. Ferretti; M. Caccia|10.1109/IT57431.2023.10078645|USV;Guidance;Path Following;Line-of-Sight (LOS);Predictor-based;Sideslip Compensation;nan|
+|[Vehicle Speed Estimation From Audio Signals Using 1D Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078724)|I. Čavor; S. Djukanović|10.1109/IT57431.2023.10078724|nan;nan|
+|[Applications Impressed Current Cathodic Protection of the Ship Hull](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078679)|L. Mrdović; Š. Ivošević|10.1109/IT57431.2023.10078679|nan;nan|
+|[Deep learning-based vehicle speed estimation using the YOLO detector and 1D-CNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078518)|A. Cvijetić; S. Djukanović; A. Peruničić|10.1109/IT57431.2023.10078518|nan;nan|
+|[Automatic Water Distribution System Using Wireless Sensor Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078653)|A. Ndagi; C. Z. Kertész|10.1109/IT57431.2023.10078653|nan;nan|
+|[Vision-based Vehicle Speed Estimation Using the YOLO Detector and RNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078639)|A. Peruničić; S. Djukanović; A. Cvijetić|10.1109/IT57431.2023.10078639|nan;nan|
+|[Single Beacon-Based AUV Navigation: A Comparative Study of Kalman Filters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078685)|U. Janković; L. Martinović; Ž. Zečević|10.1109/IT57431.2023.10078685|navigation;single beacon;UKF;EKF;nan|
+|[A Blockchain-Based Approach to Management of University Diploma Authenticity](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078715)|B. Jovović; T. Popović; S. Šandi; Z. Djikanović|10.1109/IT57431.2023.10078715|blockchain;education;credential verification;university diploma;nan|
+|[Assistive Technical Communication of Montenegrin eServices: a Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078664)|A. Simon; L. Laković; P. Kovačević; P. A. Kara; I. Ognjanović; R. Šendelj; C. Reich; M. Roganović; J. Mantas; L. Bokor|10.1109/IT57431.2023.10078664|nan;nan|
+|[Evaluation of the Montenegrin Academic Digital Innovation Hub](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078596)|L. Laković; P. A. Kara; I. Ognjanović; L. Bokor; R. Šendelj; C. Reich; M. Roganović; E. Zoulias; J. Eraković; T. Radusinović; N. Rakočević; A. Simon|10.1109/IT57431.2023.10078596|nan;nan|
+|[Authenticated Key Exchange in Underwater Acoustic Sensor Networks based on Implicit Certificates: Performance Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078623)|B. Krivokapic; S. Tomovic; I. Radusinovic|10.1109/IT57431.2023.10078623|nan;nan|
+|[Comparative analysis of TG FinFET and GAA FinFET in 3 nm technology node](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078551)|L. Abdelaziz; B. Khaled; G. Mustapha|10.1109/IT57431.2023.10078551|nan;nan|
+|[Reconstruction of Sparse Graph Signals from Reduced Sets of Samples](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078603)|M. Brajović; I. Stanković; M. Daković; L. Stanković|10.1109/IT57431.2023.10078603|nan;nan|
+|[Effectiveness of Using OWASP TOP 10 as AppSec Standard](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078626)|T. Petranović; N. Žarić|10.1109/IT57431.2023.10078626|nan;nan|
+|[A Sentiment Analysis to Understand the Role of Twitter Towards Sustainable Consumption](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078580)|C. C. Cerasi; Y. S. Balcioglu; A. Kilic; F. Huseynov; P. Rasti|10.1109/IT57431.2023.10078580|nan;nan|
+|[LSTM Encoder Decoder Based Text Highlight Abstraction Method Using Summaries Extracted by PageRank](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078652)|T. G. Altundogan; M. Karakose|10.1109/IT57431.2023.10078652|Abstractive Summarization;Pagerank;Extractive Summarization;Encoder Decoder;Attention;nan|
+|[Applying OptaPlanner in the implementation of doctors’ schedule of duty hours](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078560)|A. Kljajić; N. Bakić; D. Savić; V. Stanojević|10.1109/IT57431.2023.10078560|metaheuristics;simulated annealing;OptaPlanner tool;schedule-solving problem;nan|
+|[Degradation of the Recoloring Specific Degree Protan CVD Image From inserted Watermark](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078714)|Z. N. Milivojević; B. Prlinčević|10.1109/IT57431.2023.10078714|nan;nan|
+|[User Behavior Analysis of Short-form Video Prolonging Usage towards Purchase Intention on social media using SEM Method](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078656)|F. Jingga; R. R. Wiryawan; M. Rahmanita; F. Z. Adani|10.1109/IT57431.2023.10078656|addiction;purchase intention;short-form video;user behavior;technology;nan|
+|[Yolov5 Based Fault Detection Approach in Railway Components](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078564)|M. Yilmazer; M. Karakose|10.1109/IT57431.2023.10078564|deep learning;railway fault detection;autonomous drone;nan|
+|[A Monitoring System for Postural Sway Stabilization Using Tactile Stimulation Near the Auricles](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078716)|M. Tadokoro; T. Shibanoki; H. Tonooka|10.1109/IT57431.2023.10078716|nan;nan|
+|[QR Code Encryption for improving Bank information and Confidentiality](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078457)|F. L. Malallah; A. I. Abduljabbar; B. T. Shareef; A. O. Al-Janaby|10.1109/IT57431.2023.10078457|nan;nan|
+|[FIB Analysis of Corrosion Effects on Shape Memory Alloys in Marine Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078686)|N. Pudar; Š. Ivošević|10.1109/IT57431.2023.10078686|nan;nan|
+|[Analysis and Development of the Model for Google Assistant and Amazon Alexa Voice Assistants Integration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078705)|B. Savić; M. Milić; S. Vlajić|10.1109/IT57431.2023.10078705|nan;nan|
+|[Software for image analysis and inspection of optical lens](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078533)|D. Pepedzhiev; V. Hristov|10.1109/IT57431.2023.10078533|nan;nan|
+|[Performance Analysis of an Underwater Acoustic Communication System Based on DCSK Modulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078575)|L. Lazović; A. Jovanović; V. Rubežić|10.1109/IT57431.2023.10078575|nan;nan|
+|[Blockchain Principles and Energy Consumption Concerns](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078571)|S. Bauk|10.1109/IT57431.2023.10078571|nan;nan|
+|[Proposal for Improved Navigation Safety of Non Solas Vessels by Combining TSS And IoT Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078689)|I. Stanovčić; R. Bošnjak; M. Radonjić; B. Krstajić|10.1109/IT57431.2023.10078689|nan;nan|
+|[Binary Watermark Application in Color Image Protection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078501)|Z. S. Veličković; D. R. Blagojević; M. Z. Veličković|10.1109/IT57431.2023.10078501|nan;nan|
+|[A Maturity Model of Digital Transformation in Supply Chains: A Multi-dimensional Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078510)|S. Tiss; M. Orellano|10.1109/IT57431.2023.10078510|Maturity model;digital transformation;maturity assessment;supply chain 4.0;nan|
+|[The importance of information system for seafarers in Montenegro](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078618)|V. Kapetanović; M. Krčum; I. Petrović; T. Dlabač|10.1109/IT57431.2023.10078618|nan;nan|
+|[A Quantum-Classical Hybrid Classifier Using Multi-Encoding Method for Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078617)|N. F. Bar; H. Yetis; M. Karakose|10.1109/IT57431.2023.10078617|quantum computing;quantum machine learning;variational quantum circuit;image classifier;nan|
+|[Extreme Gradient Boosting based Anomaly detection for Kubernetes Orchestration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078576)|A. Yolchuyev|10.1109/IT57431.2023.10078576|Cloud computing;Container Orchestration;Kubernetes;Artificial Intelligence;eXtreme Gradient Boosting;nan|
+|[Disease Prediction Using Machine Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078464)|I. Jovovic; D. Babic; T. Popovic; S. Cakic; I. Katnic|10.1109/IT57431.2023.10078464|nan;nan|
+|[Advanced Mission Critical Communication in Maritime Search and Rescue Actions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078557)|Z. Paladin; E. Fountoulakis; Ž. Lukšić; N. Kapidani; D. Ribar; G. Boustras|10.1109/IT57431.2023.10078557|nan;nan|
+|[Optimization of ETA using information technologies in order to minimize the negative impacts of anchoring](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078440)|B. Drašković; R. Bošnjak|10.1109/IT57431.2023.10078440|nan;nan|
 
 #### **2023 IEEE 7th Global Electromagnetic Compatibility Conference (GEMCCON)**
 - DOI: 10.1109/GEMCCON57842.2023
