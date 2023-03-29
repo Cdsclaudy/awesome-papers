@@ -17,6 +17,7 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 SICE International Symposium on Control Systems (SICE ISCS)](#2023-sice-international-symposium-on-control-systems-sice-iscs)
       - [2023 17th International Conference on the Experience of Designing and Application of CAD Systems (CADSM)](#2023-17th-international-conference-on-the-experience-of-designing-and-application-of-cad-systems-cadsm)
       - [2023 11th International Winter Conference on Brain-Computer Interface (BCI)](#2023-11th-international-winter-conference-on-brain-computer-interface-bci)
       - [2023 International Conference on Advances in Intelligent Computing and Applications (AICAPS)](#2023-international-conference-on-advances-in-intelligent-computing-and-applications-aicaps)
@@ -63,6 +64,28 @@ The following document consists of the list of research papers from established 
 ### **IEEE (Institute of Electrical and Electronics Engineers)**
 
 ### **Conferences**
+
+#### **2023 SICE International Symposium on Control Systems (SICE ISCS)**
+- DOI: 10.23919/SICEISCS57194.2023
+- DATE: 9-11 March 2023
+
+|Name|Authors|DOI|Tags|
+|-|-|-|-|
+|[Image-based Visual-Servoing for Air-to-Air Drone Tracking & Following with Model Predictive Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079208)|W. K. Chan; S. Srigrarom|10.23919/SICEISCS57194.2023.10079208|image-based visual servoing (IBVS);instantaneous velocity vector;target tracking;target following;model predictive control;air-to-air;drone;unmanned aerial vehicle (UAV);nan|
+|[Vehicle Pitch Angle Estimation by a Triaxial Accelerometer with a Wheel Speed Sensor and an Altimeter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079201)|T. Wada; S. Kobayashi; S. Takamoto; A. Nishikawa; Y. Sumiyoshi; W. Tsujita|10.23919/SICEISCS57194.2023.10079201|Vehicle;Pitch angle;Estimation;nan|
+|[Vehicle Dynamics Trajectory Planning: Minimum Violation Planning Modifications Reducing Computational Time](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079204)|D. Vosahlik; P. Turnovec; J. Pekar; M. Bohac; T. Hanis|10.23919/SICEISCS57194.2023.10079204|nan;nan|
+|[System level modeling and closed loop control for a droplet-based micro-actuator](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079205)|A. M. Kopp; P. Conrad; M. Hoffmann; H. Ament|10.23919/SICEISCS57194.2023.10079205|system identification;neural network;closed loop control;micro-actuator;nan|
+|[Control of a Smart Active Flexible Needle for Therapeutic procedures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079211)|S. Hans; J. K. Goyal; A. Sachan; P. Bansal; S. Soni; M. Djemai|10.23919/SICEISCS57194.2023.10079211|nan;nan|
+|[Shoe-type device to estimate body balance focusing on the relationship between CoM and BoS estimated from CoP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079197)|Y. Ishii; K. Date; T. Itami; J. Yoneyama|10.23919/SICEISCS57194.2023.10079197|Center of mass;Center of pressure;Body balance;Shoe-type device;nan|
+|[Nearest Neighbor Search-Based Modification of RRI Data with Premature Atrial Contraction and Premature Ventricular Contraction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079199)|S. Chen; S. Kato; K. Fujiwara; M. Kano|10.23919/SICEISCS57194.2023.10079199|Heart rate variability;RRI data;machine learning;nearest neighbor search algorithm;nan|
+|[Structural Modeling and Intervention of Gene Regulatory Networks for Ultra-Early Disease Prevention](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079209)|R. Naga; M. Inoue|10.23919/SICEISCS57194.2023.10079209|Ultra-Early Disease Prevention;Gene Regulatory Networks;Network Structural Modeling;Model-Based Control;Robust Control;nan|
+|[Relation between disturbance observer and model error compensator](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079207)|K. Shikada; N. Sebe|10.23919/SICEISCS57194.2023.10079207|disturbance observer;model error compensator;robust control;servo system.;nan|
+|[Neural Continuous-Time Markov Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079202)|M. Reeves; H. S. Bhat|10.23919/SICEISCS57194.2023.10079202|System Identification;Continuous-Time Markov Chains;Neural Networks;Parameter Estimation;nan|
+|[Force Control of a 1-DoF Cable Robot Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079206)|M. Hamann; J. Brandl; C. Ament|10.23919/SICEISCS57194.2023.10079206|Force Control;Reinforcement Learning;DDPG;Cable Robot;nan|
+|[Mixed Compositional Pattern-Producing Network-NeuroEvolution of Augmenting Topologies Method for the Locomotion Control of a Snake-Like Modular Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079203)|Y. -L. Song; W. -Y. Chiu; S. H. Manoharan|10.23919/SICEISCS57194.2023.10079203|Multiobjective genetic algorithm;neuroevolution algorithm;serpentine locomotion;snake-like modular robot;nan|
+|[Novel Auto-Tuning PD-Fuzzy Control of Current Harmonics to Reduce Losses in Motor Drive Systems Excited by SiC-MOSFET Inverter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079198)|N. G. M. Thao; T. D. Do; D. -K. Ngo; K. Fujisaki|10.23919/SICEISCS57194.2023.10079198|PD-fuzzy control;current harmonics control;SiC-based motor drive;motor copper loss;inverter loss;nan|
+|[Distributed Traffic Signal Control with Fairness Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079200)|S. Shirasaka; N. Kodama; T. Harada|10.23919/SICEISCS57194.2023.10079200|Traffic Signal Control;Fairness;Deep Reinforcement Learning;Cooperation;nan|
+|[Robust H∞ Guaranteed Cost Controller Design for Islanded Microgrids: An LMI Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079210)|B. Lee; J. Kim; J. Ban|10.23919/SICEISCS57194.2023.10079210|linear matrix inequality;optimal control;power systems;renewable energy sources;robust control;nan|
 
 #### **2023 17th International Conference on the Experience of Designing and Application of CAD Systems (CADSM)**
 - DOI: 10.1109/CADSM58174.2023
