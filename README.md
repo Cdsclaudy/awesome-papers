@@ -17,6 +17,7 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 IEEE Multi-conference on Natural and Engineering Sciences for Sahel's Sustainable Development (MNE3SD)](#2023-ieee-multi-conference-on-natural-and-engineering-sciences-for-sahels-sustainable-development-mne3sd)
       - [2023 15th International Conference on Computer Research and Development (ICCRD)](#2023-15th-international-conference-on-computer-research-and-development-iccrd)
       - [2023 IEEE 6th Information Technology,Networking,Electronic and Automation Control Conference (ITNEC)](#2023-ieee-6th-information-technologynetworkingelectronic-and-automation-control-conference-itnec)
       - [2023 IEEE 3rd International Conference on Power, Electronics and Computer Applications (ICPECA)](#2023-ieee-3rd-international-conference-on-power-electronics-and-computer-applications-icpeca)
@@ -71,6 +72,19 @@ The following document consists of the list of research papers from established 
 ### **IEEE (Institute of Electrical and Electronics Engineers)**
 
 ### **Conferences**
+
+#### **2023 IEEE Multi-conference on Natural and Engineering Sciences for Sahel's Sustainable Development (MNE3SD)**
+- DOI: 10.1109/MNE3SD57078.2023
+- DATE: 23-25 February 2023
+
+|Name|Authors|DOI|Tags|
+|-|-|-|-|
+|[Contribution to the construction of an ontology for the phytosanitary surveillance of cotton in Côte d'Ivoire](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079897)|T. K. N'Guessan Narcisse; M. Sadouanouan; K. Appoh; K. Malanno; B. K. Kra Norbert; O. O. Germain|10.1109/MNE3SD57078.2023.10079897|plant health surveillance;cotton;conceptual model;ontology;NeOn;UML;Systematics;Semantic search;Surveillance;Unified modeling language;OWL;Ontologies;Software|
+|[Lightweight and robust MQTT protocol authentication model suitable for connected portals](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079830)|E. Toé; D. F. Somé; T. Yélémou|10.1109/MNE3SD57078.2023.10079830|Internet of Things;MQTT;authentication;one-time password;Smarthome;Hash functions;Protocols;Authentication;Passwords;Smart homes;Resists;Robustness|
+|[Application of Machine Learning in Software Quality: a Mini-review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079800)|O. Bombiri; P. Poda; T. F. Ouedraogo|10.1109/MNE3SD57078.2023.10079800|Machine Learning;software quality;defect prediction;maintainability prediction;Machine learning algorithms;Software algorithms;Software quality;Machine learning;Predictive models;Maintenance engineering;Prediction algorithms|
+|[Passive Remote Sensing Studies of a Phantom Insect](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079763)|M. Sougoti; S. Z. Kam; S. Zongo; A. Bere|10.1109/MNE3SD57078.2023.10079763|insect;passive LIDAR;quadrant photodiode;remote sensing;Laser radar;Insects;Phantoms;Power system harmonics;Telescopes;Harmonic analysis;Robot sensing systems|
+|[Commercial microwave link networks for rainfall monitoring in Burkina Faso: First results from a dense network in Ouagadougou](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079165)|M. Djibo; C. Chwala; W. Y. S. B. Ouedraogo; A. Doumounia; S. R. Sanou; M. Sawadogo; H. Kunstmann; F. Zougmoré|10.1109/MNE3SD57078.2023.10079165|Attenuation;Microwave link;Rain rate;Signal;Telecommunications;nan|
+|[Performance Evaluation of Fault Detection Algorithm Applied on a Photovoltaic Generator](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10079773)|O. W. Compaore; G. Hoblos; Z. Koalaga|10.1109/MNE3SD57078.2023.10079773|ROC;AVC;DCS;ARR;FDI;PVG;SHM;sensor fault;monitoring;diagnostic;nan|
 
 #### **2023 15th International Conference on Computer Research and Development (ICCRD)**
 - DOI: 10.1109/ICCRD56364.2023
