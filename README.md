@@ -17,6 +17,7 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 Open Source Modelling and Simulation of Energy Systems (OSMSES)](#2023-open-source-modelling-and-simulation-of-energy-systems-osmses)
       - [2023 International Conference on Power, Instrumentation, Energy and Control (PIECON)](#2023-international-conference-on-power-instrumentation-energy-and-control-piecon)
       - [2023 Argentine Conference on Electronics (CAE)](#2023-argentine-conference-on-electronics-cae)
       - [2023 7th International Conference on Computing Methodologies and Communication (ICCMC)](#2023-7th-international-conference-on-computing-methodologies-and-communication-iccmc)
@@ -86,6 +87,24 @@ The following document consists of the list of research papers from established 
 ### **IEEE (Institute of Electrical and Electronics Engineers)**
 
 ### **Conferences**
+
+#### **2023 Open Source Modelling and Simulation of Energy Systems (OSMSES)**
+- DOI: 10.1109/OSMSES58477.2023
+- DATE: 27-29 March 2023
+
+|Name|Authors|DOI|Tags|
+|-|-|-|-|
+|[The DeMaDs Open Source Modeling Framework for Power System Malfunction Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089746)|D. Fellner; T. I. Strasser; W. Kastner|10.1109/OSMSES58477.2023.10089746|Data-driven approach;malfunction detection;modeling and simulation;electric power systems;smart grids;nan|
+|[Reduced-Order Synchronous Generator Modelling for Real- Time Simulation using Shifted Frequency Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089718)|J. Dinkelbach; M. Moraga; A. Monti|10.1109/OSMSES58477.2023.10089718|Reduced-order modelling;interfacing techniques;synchronous generator;voltage-behind-reactance;real-time simulation;Shifted Frequency Analysis;nan|
+|[FlexPlan.jl - An open-source Julia tool for holistic transmission and distribution grid planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089624)|M. Rossini; H. Ergun; M. Rossi|10.1109/OSMSES58477.2023.10089624|Holistic planning;mixed-integer optimisation;transmission grid planning;distribution grid planning;demand flexibility;storage;hvdc;nan|
+|[PyAPI-RTS: A Python-API for RSCAD Modeling](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089671)|M. Weber; J. Enzinger; H. K. Çakmak; U. Kühnapfel; V. Hagenmeyer|10.1109/OSMSES58477.2023.10089671|Real-time Simulation;Workflow Automation;Python;nan|
+|[Open Source Simulation Software pandapower and pandapipes: Recent Developments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089685)|R. Bolgaryn; G. Banerjee; S. Meinecke; H. Maschke; F. Marten; M. Richter; Z. Liu; P. Lytaev; B. Alfakhouri; J. Kisse; D. Lohmeier|10.1109/OSMSES58477.2023.10089685|power system modeling;power system protection;grid calculation;automation;short circuit calculation;temperature-dependent power flow;FACTS devices;gas grid modeling;district heating;nan|
+|[Introducing PROOF - A PROcess Orchestration Framework for the Automation of Computational Scientific Workflows and Co-Simulations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089680)|J. Liu; M. Chlosta; N. Schaber; J. Sidler; R. Lutz; T. Schlachter; V. Hagenmeyer|10.1109/OSMSES58477.2023.10089680|Scientific Workflow;Co-Simulation Framework;Automation;Smart grids;Modular Couplings;Energy System;nan|
+|[Energy Systems Test Case Discovery Enabled by Test Case Profile and Repository](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089649)|P. Raussi; J. Kamsamrong; A. Paspatis; K. Heussen; T. A. Zerihun; E. Widl; F. P. Andrén; J. H. Kazmi; T. I. Strasser; F. Castro; L. Pellegrino|10.1109/OSMSES58477.2023.10089649|Energy system;test cases;test case discovery;test case profile;test case repository;nan|
+|[Market integration analysis of heat recovery under the EMB3Rs platform: An industrial park case in Greece](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089644)|A. S. Faria; T. Soares; G. Goumas; A. Abotzios; J. M. Cunha; M. Silva|10.1109/OSMSES58477.2023.10089644|Thermal Market;P2P;EMB3Rs Platform;District Heating;nan|
+|[DigitalEnergyTestbed: An Open Testbed Prototype for Integrated Energy Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089634)|E. Widl; A. Sporr; R. -R. Schmidt; T. Natiesta; N. Marx|10.1109/OSMSES58477.2023.10089634|integrated energy system;testing;validation;hardware-in-the-loop;simulation;open source;nan|
+|[Load and generation time series for German federal states: Static vs. dynamic regionalization factors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089686)|M. Sundblad; T. Fürmann; A. Weidlich; M. Schäfer|10.1109/OSMSES58477.2023.10089686|energy system data;regionalization factors;generation time series;load time series;nan|
+|[Rapid development and execution of complex agent-based energy system simulations: the FAME framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089770)|U. J. Frey; C. Schimeczek; M. Deissenroth-Uhrig; B. Fuchs; K. Nienhaus|10.1109/OSMSES58477.2023.10089770|agent-based modelling;framework;simulation;energy system;nan|
 
 #### **2023 International Conference on Power, Instrumentation, Energy and Control (PIECON)**
 - DOI: 10.1109/PIECON56912.2023
