@@ -17,6 +17,7 @@ The following document consists of the list of research papers from established 
 - [Organizations](#organizations)
   - [IEEE (Institute of Electrical and Electronics Engineers)](#ieee-institute-of-electrical-and-electronics-engineers)
     - [Conferences](#conferences)
+      - [2023 IEEE Workshop on Microelectronics and Electron Devices (WMED)](#2023-ieee-workshop-on-microelectronics-and-electron-devices-wmed)
       - [2023 IEEE Applied Sensing Conference (APSCON)](#2023-ieee-applied-sensing-conference-apscon)
       - [2023 5th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)](#2023-5th-international-youth-conference-on-radio-electronics-electrical-and-power-engineering-reepe)
       - [2023 6th International Conference on Energy Conservation and Efficiency (ICECE)](#2023-6th-international-conference-on-energy-conservation-and-efficiency-icece)
@@ -112,6 +113,20 @@ The following document consists of the list of research papers from established 
 ### **IEEE (Institute of Electrical and Electronics Engineers)**
 
 ### **Conferences**
+
+#### **2023 IEEE Workshop on Microelectronics and Electron Devices (WMED)**
+- DOI: 10.1109/WMED58543.2023
+- DATE: 31-31 March 2023
+
+|Name|Authors|DOI|Tags|
+|-|-|-|-|
+|[Single-Ended Signaling for Energy-Efficient Short-Reach Communication with High-Bandwidth Density: Invited Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097442)|J. M. Wilson|10.1109/WMED58543.2023.10097442|Ground Referenced Signaling;High-Speed Serial Link;Single-Ended Signaling;Multi-Chip Modules;AI;HPC;Transmitters;Power supplies;Prototypes;Production;Receivers;Jitter;CMOS technology|
+|[Atomic Layer Processing of MoS2](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097444)|W. Jen; J. D. Hues; J. Soares; S. Letourneau; M. Lawson; D. Choudhury; A. U. Mane; Y. Lu; Y. Wu; S. M. Hues; L. Li; J. W. Elam; E. Graugnard|10.1109/WMED58543.2023.10097444|nan;Electric potential;Photonic band gap;Conferences;Atomic layer deposition;Electron mobility;Microelectronics;Sulfur|
+|[Metal-to-Metal Flip-Chip Bonding for High-Temperature 3D SiC IC Integration and Packaging](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097447)|F. Li; J. Shi|10.1109/WMED58543.2023.10097447|flip-chip bonding;gold-to-gold;metal-to-metal;reliability;high temperature;integrated circuit (IC);3D IC;3D packaging;Integrated circuits;Gold;Silicon carbide;Aging;Packaging;Conductors;Thermal conductivity|
+|[An All-Optical 2-Bit Adder Composed of Fabry-Perot Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097433)|J. Ellaine Houle; D. Sullivan; A. Zadehgol; M. G. Kuzyk|10.1109/WMED58543.2023.10097433|FDTD;optical logic;Solid modeling;Analytical models;Three-dimensional displays;Aerospace electronics;Fabry-Perot;Behavioral sciences;Optical bistability|
+|[Power management architectures for high performance NAND systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097445)|L. Nubile; B. Iorio; M. Yu; J. Binfet; M. Piccardi; R. Cardinali; W. Di Francesco; A. Mohammadzadeh|10.1109/WMED58543.2023.10097445|Flash memories;Current control;Power system control;Low-power electronics;Microcontrollers;Distributed management;Performance evaluation;Portable computers;Solid state drives;Power system management;Control systems;Microelectronics;Flash memories|
+|[R(t)-Based Spike-Timing-Dependent Plasticity in Memristive Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097441)|F. Afrin; K. D. Cantley|10.1109/WMED58543.2023.10097441|Spike-Timing-Dependent Plasticity;R(t) element;memristor;Spiking Neural Network;spike triplet learning;Shape;Neuromorphics;Biological system modeling;Scalability;Parallel processing;Behavioral sciences;Microelectronics|
+|[Quantum Time-Domain Simulation in 3-D Electron Nano-devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10097446)|K. Antonov; D. Sullivan|10.1109/WMED58543.2023.10097446|FDTD;MOSFET;transmission;PML;Performance evaluation;Solid modeling;Conferences;Nanoscale devices;Microelectronics;Transistors;Time-domain analysis|
 
 #### **2023 IEEE Applied Sensing Conference (APSCON)**
 - DOI: 10.1109/APSCON56343.2023
